@@ -35,7 +35,8 @@ This project was a collaborative effort, and each team member played a crucial r
 
 Provide a concise description of the project to help users understand its purpose and functionality:
 
-[Your brief description here.]
+
+It’s Multimodal RAG Chatbot designed for the automotive industry which can retrieve text and images from the PDF when the user asks for any inquiries about a specific car model.
 
 ---
 
